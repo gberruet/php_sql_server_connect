@@ -1,10 +1,10 @@
 <?php
 
-$serverName = "180.120.0.167";
+$serverName = "ip_server";
 $connectionOptions = array(
-    "database" => "master",
-    "uid" => "amffawebwp",
-    "pwd" => "@mff@.2017.#"
+    "database" => "database",
+    "uid" => "user_db",
+    "pwd" => "password_db"
 );
 
 // Establishes the connection
